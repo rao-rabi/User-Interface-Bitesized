@@ -10,13 +10,8 @@
 .text-card1{
     margin-left: -15px;
 }
-.limit i{
-    background-color:rgb(238, 197, 197);
-    padding: 2%;
-    border-radius: 50%;
-}
 .img-movie{
-     margin-top: 25%;
+     margin-top: 30%;
      margin-left: 38%;
 }
 .color-progress-bar{
@@ -24,6 +19,6 @@
 }
 @media only screen and (min-width:1024px) {
     .main-card{
-        margin-top: -20vh;
+        margin-top: -27vh;
     }
 }
